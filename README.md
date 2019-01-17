@@ -8,9 +8,5 @@
 8.下载macOS10.14以上的镜像文件，利用transmac写进U盘<br>
 9.替换EFI/Clover文件，安装。<br>
 感谢您的支持：<br>
-eg:  “---------”左右两边的“：”决定文字的对齐方式
-| 星期        | 车次           | 时间  |
-| ------------- |:-------------:| -----:|
-| 星期一      |G1008 | 4:30 |
-|  星期二  | G1006      |  14:55 |
-|  星期三   | G1007    |   18:30 |
+![](https://github.com/FIU001/huawei-matebook-13-/blob/master/zhi.png)
+![](https://github.com/FIU001/huawei-matebook-13-/blob/master/wechat.png)
